@@ -1,16 +1,84 @@
-# React + Vite
+# 🌍 Carbon Footprint Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application developed for **SDG 13: Climate Action** to help users estimate and reduce their carbon footprint.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🌍 Carbon Emission Calculation
+- 📊 Interactive Dashboard using Recharts
+- 🌿 Eco-Friendly Suggestions
+- 🌳 Tree Offset Calculator
+- 🌙 Dark Mode
+- 📜 Calculation History
+- 💾 Local Storage Support
+- 📄 PDF Report Export
+- 📈 Trend Visualization
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+### Frontend
+- React.js
+- Tailwind CSS
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Libraries Used
+- Recharts
+- jsPDF
+
+---
+
+## 🎯 Sustainable Development Goal
+
+**SDG 13: Climate Action**
+
+This project promotes awareness about carbon emissions and encourages sustainable practices.
+
+---
+
+## 📷 Screenshots
+
+(Add screenshots here)
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/aman2004-cymk/SDG-13-Climate-Action-Web-Application-built-with-React-and-Tailwind-CSS.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+---
+
+## Future Scope
+
+- User Authentication
+- Database Integration
+- AI-based Recommendations
+- Mobile Application
+- Real-time Analytics
+
+---
+
+## Author
+
+**Aman Rai**
+
+B.Tech Electronics and Communication Engineering
+
+Dr. Shakuntala Misra National Rehabilitation University, Lucknow
